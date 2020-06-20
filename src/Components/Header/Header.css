@@ -1,7 +1,7 @@
 .header {
   width: 59%;
   height: 50px;
-  background-color: aqua;
+  background-color: white;
   position: fixed;
   display: flex;
   align-items: center;
@@ -12,7 +12,7 @@ nav {
   display: flex;
   /* position: absolute; */
   /* right: 0; */
-  background-color: azure;
+  /* background-color: azure; */
 }
 
 .header > ul {
@@ -26,5 +26,10 @@ nav {
 
 .header > ul > li {
   display: inline;
-  margin: 0 0.3em;
+  margin: 0 0.5em;
+}
+
+.header img {
+  height: 23px;
+  width: 23px;
 }
