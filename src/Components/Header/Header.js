@@ -6,11 +6,19 @@ export default function Header() {
     <div className='header'>
       {/* <nav> */}
       <ul>
-        <li>Home</li>
-        <li>Video</li>
+        <li>
+          <a href='#home'>Home</a>
+        </li>
+        <li>
+          <a href='#video'>Video</a>
+        </li>
         {/* <li>Tour</li> */}
-        <li>About</li>
-        <li>Contact</li>
+        <li>
+          <a href='#about'>About</a>
+        </li>
+        <li>
+          <a href='#contact'>Booking & Contact</a>
+        </li>
       </ul>
 
       <ul>

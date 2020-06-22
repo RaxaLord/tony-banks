@@ -1,18 +1,11 @@
 .header {
   width: 59%;
   height: 50px;
-  background-color: white;
+  /* background-color: yellow; */
   position: fixed;
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-
-nav {
-  display: flex;
-  /* position: absolute; */
-  /* right: 0; */
-  /* background-color: azure; */
 }
 
 .header > ul {

@@ -1,0 +1,9 @@
+#about {
+  height: 80%;
+}
+
+.about-photo {
+  width: 45%;
+  float: right;
+  margin-right: 5%;
+}
