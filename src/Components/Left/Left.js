@@ -8,23 +8,28 @@ export default function Left() {
         <h1>Tony</h1>
         <h2>Banks</h2>
       </div>
-      <div className='footer'>
-        {/* <iframe
+
+      <div class='elfsight-app-c5aadf41-ffde-46e3-9cf6-1c3ee8d982a0 music'></div>
+
+      {/* <div className='footer'>
+        <a href='https://geo.music.apple.com/us/artist/tony-banks/1500094357?mt=1&app=music&ls=1'>
+          <div className='itunes-button'></div>
+        </a>
+
+        <a href='https://soundcloud.com/tonybanksmusic'>
+          <img src='soundCloud.png' alt='soundcloud' className='soundcloud' />
+        </a>
+
+        <iframe
           title='spotify follow button'
           src='https://open.spotify.com/follow/1/?uri=spotify:artist:5fMnlAnjLaa72oy64etsmM&size=detail&theme=light'
-          width='250'
+          width='225'
           height='56'
           scrolling='no'
           frameborder='0'
           allowtransparency='true'
-        ></iframe> */}
-
-        {/* <a href='https://geo.music.apple.com/us/artist/tony-banks/1500094357?mt=1&app=music&ls=1'>
-          <div className='itunes-button'></div>
-        </a> */}
-      </div>
-
-      <div class='elfsight-app-c5aadf41-ffde-46e3-9cf6-1c3ee8d982a0 music'></div>
+        ></iframe>
+      </div> */}
 
       {/* Music Player for SoundCloud */}
       {/* <iframe

@@ -25,15 +25,12 @@ h2 {
 }
 
 .footer {
-  height: 75px;
   width: 100%;
-  /* background-color: red; */
-  color: white;
-  /* text-align: center; */
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  margin: 5px;
+  /* flex-direction: column; */
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 25px;
 }
 
 .itunes-button {
@@ -44,4 +41,11 @@ h2 {
   width: 140px;
   height: 30px;
   margin: 10px;
+  margin-top: 20px;
+}
+
+.soundcloud {
+  height: 40px;
+  /* margin-left: 25px; */
+  margin-top: 10px;
 }
