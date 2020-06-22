@@ -99,9 +99,10 @@ export default function Right() {
 
         <form id='form' class='topBefore' name='contact' method='post'>
           <input type='hidden' name='form-name' value='contact' />
-          <input id='name' type='text' placeholder='NAME' />
-          <input id='email' type='text' placeholder='E-MAIL' />
+          <input name='name' id='name' type='text' placeholder='NAME' />
+          <input name='email' id='email' type='text' placeholder='E-MAIL' />
           <textarea
+            name='message'
             id='message'
             type='text'
             placeholder='MESSAGE'
