@@ -8,9 +8,9 @@ export default function Header() {
       <ul>
         <li>Home</li>
         <li>Video</li>
-        <li>Tour</li>
+        {/* <li>Tour</li> */}
         <li>About</li>
-        <li>Booking & Contact</li>
+        <li>Contact</li>
       </ul>
 
       <ul>
